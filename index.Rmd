@@ -33,7 +33,7 @@ you can add text
 you can *format* and **bold?**
 
 this is a [link](https://www.google.com/) to a good data science tool.
-SOON: a link to [about](about.html) page on this stie
+SOON: a link to [about](about.html) page on this stie. a link to [projects](projects.html) on this page.
 
 you can also still use R
 
