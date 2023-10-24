@@ -38,4 +38,9 @@ SOON: a link to [about](about.html) page on this stie. a link to [projects](proj
 you can also still use R
 
 
+# Other Stuff on this page
+
+Definitely ther is [plotly](plotly.html) stuff
+
+
 
